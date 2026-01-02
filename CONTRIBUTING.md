@@ -12,12 +12,12 @@
 
 **2.** Clone the forked repository.
 ```
-   git clone https://github.com/YOUR_USERNAME/MCQ-Quizz.git
+   git clone https://github.com/YOUR_USERNAME/Qonnect.git
 ```
 
 **3.** Navigate to the project directory.
 ```
-   cd MCQ-Quizz
+   cd Qonnect
 ```
 
 **4.** Create a new branch:
@@ -46,7 +46,7 @@
 
 **9.** Setup a reference(remote) to the original repository to get all the changes from the remote.
 ```
-   git remote add upstream https://github.com/Kavlin-Kaur/MCQ-Quizz.git
+   git remote add upstream https://github.com/Kavlin-Kaur/Qonnect.git
 ```
 
 **10.** Check the remotes for this repository.
